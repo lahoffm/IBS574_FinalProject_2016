@@ -1,0 +1,43 @@
+####Genes with target species specific amino acid substitution (TAAS) sites for the three vocal learners represented by six species with their acceleration results and expression results from microarray analyses of the songbird brain. Abbreviations: dN/dS(FG)= dN/dS of the foreground branches; dN/dS(BG)= dN/dS of the background branches; H0= null hypothesis; and, H1= alternative hypothesis. Area X = area X of the striatum; HVC = letter based name; LMAN = lateral magnocellular nucleus of the anterior neostraitum; RA = robust nucleus of the arcopallium; + = expression of gene; M = medium ground-finch, Z = zebra finch, C= American crow, B = budgerigar, K = kea; and, H = Anna’s humming bird.
+Gene symbol	Pos in Zebrafinch	Pos in Chicken	M	Z	C	B	K	H	Others	Expression in songbird brain	Expression in song nuclei	Differential expression among song nuclei	Specialized in HVC compared to surrounding areas	Singing related genes	# gain branches	dN/dS(FG)	dN/dS(BG)	-2ln(LH0/LH1)	p-value	adj.p-value
+ACP2	91	50	D	D	D	D	D	Q	AEG	+	+
+B3GNT2	253	253	N	N	N	N	N	N	H	+	+		+
+C12ORF35	159	163	P	P	P	Y	H	G	EKQ	+	+	Area X up
+C15ORF42	325	320	A	A	A	A	A	N	LMTV	+	+
+CCDC135	499	555	V	V	I	D	D	V	AKMRST	+	+			+
+CCDC135	529	585	G	D	D	H	H	D	EKNRS	+	+			+
+CHGB	226	244	A	G	G	G	G	G	DEN	+	+	Area X down	+	+
+COL6A3	1499	1519	L	L	L	L	L	M	V	+	+	HVC up, RA up		+
+DNAH10		1255	N		N	N	N	A	DHQ	+	+
+DNAH10		2223	Q		Q	N	N	Q	CHKRTY	+	+
+GDPD4	397	403	S	S	S	S	S	G	DN	+					Three	0.738	0.174	35.32	2.80.E-09	8.16.E-07
+GDPD4	425	431	H	H	H	S	S	E	DGN	+					Three	0.738	0.174	35.32	2.80.E-09	8.16.E-07
+HAUS8	61	45	N	N	N	N	N	G	DES	+
+KCNS3	485	486	V	V	V	A	A	M	IST	+	+		+
+KIAA1919	166	239	W	W	W	S	S	S	CHY	+	+	Area X up			Two	0.401	0.181	10.76	1.04.E-03	4.30.E-02
+PDZD8	367	458	A	A	A	T	T	T	PQS	+	+
+PIK3R4	671	671	C	C	C	C	C	C	R	+	+	Area X up
+PLEKHO1	220	229	T	T	T	T	T	L	AIV	+	+
+PTPRB	911	903	K	K	K	M	M	M	ATV	+
+SACS	2237	2239	N	N	N	N	N	I	AT	+	+	Area X down	+
+SH3BP2	214	215	P	P	P	P	P	S	AGNT	+	+
+SPAG16	123	123	L	L	L		T	K	MRV	+	+
+TCTE3	80	80	N	K	N	N	N	E	DGH	+	+
+TMEM48	448	448	K	K	K	K	K	I	NS	+	+
+TNFRSF1A	245	231	R	R	H	K	K	Y	IN	+	+	HVC up, LMAN up	+
+TSEN2	193	241	M	M	M	M	M	S	AGIRTV	+	+	Area X up		+
+WDR77	163	261	G	G	G	N	N	P	RS	+	+
+XPC	419	425	P	P	P	P	P	P	CHR	+	+
+ABCG2	328	328	L	L	L	A	T	A	EIKRV
+C9ORF152	53	53	M	T	V	F	F	F	KL
+CD86	88	88	P	V	T	V	V	N	DEHK
+ENPP1	704	705	S	S	S	D	D	P	ATV
+LOC418554		154	V			T	T	T	AGP
+SMCR8	215	215	Q	Q	Q	L	V	V	AI
+SYNJ2	399	416	Q	Q	Q	R	Q	R	H
+TDP2	161	257	E	E	E	E	E	E	KQRT
+TP53I3	310	310	A	A	A	D	D	Q	EKLR
+URB2	105	105	K	K	K	K	K	K	AEGQ
+ZBTB49	187	190	G	G	G	G	G	G	AILMV
+ENSGALT00000027531	868	890	P	P	P	I	I	E	AKMQRST
+ENSGALT00000032989	215	218	H	H	H	R	R	L	KQ

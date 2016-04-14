@@ -1,0 +1,337 @@
+####Expressed areas of accelerated element-associated genes in the brain. Area X = area X of the striatum; HVC = letter based name; RA = robust nucleus of the arcopallium; and, + = expression of gene.																	
+The lowest and highest p-values (4th and 5th columns) are from the phyloP results of comparing each VL species to 9 non-VL species.																	
+Chromosome positions and ENSMEBL ID are according to the zebra finch genome																	
+Chromosome	Window size	Start	End	Lowest Pval	Highest Pval	Associated Gene	Distance to gene	Location	Gene Description	Gene Symbol	In songbird brain	In song nuclei	Singing regulated	RA specialized birds and human LMC	Area X specialized	HVC specialized	Differential between song nuclei
+1	100bp	41476669	41476769	0.00096	0.04577	ENSTGUG00000011178	0	CDS,intron	Multidrug resistance-associated protein 4	ABCC4							
+1	100bp	117983048	117983145	0.00056	0.03552	ENSTGUG00000013627	0	intron	Target of Nesh-SH3	ABI3BP							
+6	50bp	26602504	26602554	0.00018	0.03115	ENSTGUG00000010742	0	intron	Long-chain-fatty-acid--CoA ligase 5	ACSL5							
+Z	50bp	52151429	52151476	0.00003	0.03855	ENSTGUG00000003066	5142	3'flanking	Cytosolic carboxypeptidase 1	AGTPBP1	+	+					+
+3	50bp	32406193	32406243	0.00009	0.04524	ENSTGUG00000008212	2510	3'flanking	RAC-gamma serine/threonine-protein kinase	AKT3	+	+					+
+2	100bp	73951124	73951223	0.00065	0.04733	ENSTGUG00000006463	2386	3'flanking	Succinate-semialdehyde dehydrogenase, mitochondrial	Aldh5a1	+	+					
+4A	100bp	18488994	18489094	0.00017	0.04879	ENSTGUG00000006168	0	CDS	UDP-N-acetylglucosamine transferase subunit ALG13 homolog	ALG13	+	+					
+4	50bp	2992727	2992768	0.00009	0.04368	ENSTGUG00000001807	4865	3'flanking	Ankyrin-2	ANK2	+	+					
+6	50bp	5796863	5796913	0.00015	0.04719	ENSTGUG00000005344	0	intron	Ankyrin-3	ANK3	+	+	+				+
+1	100bp	83307738	83307838	0.00004	0.02158	ENSTGUG00000012948	0	CDS,intron	Ankyrin repeat domain-containing protein 42	Ankrd42							
+22	100bp	425285	425362	0.00002	0.03611	ENSTGUG00000003929	0	CDS,intron	Anthrax toxin receptor 1	Antxr1							
+5	50bp	57583915	57583973	0.00016	0.04587	ENSTGUG00000013032	0	intron	AT-rich interactive domain-containing protein 4A	ARID4A	+	+	+				+
+19	50bp	6222412	6222462	0.00302	0.01058	ENSTGUG00000018246	4272	5'flanking	Argininosuccinate lyase	ASL	+	+					+
+2	50bp	112795677	112795727	0.02453	0.03292	ENSTGUG00000010779	0	CDS	Putative Polycomb group protein ASXL3	ASXL3	+	+			+		+
+2	50bp	112796733	112796793	0.0015	0.02811	ENSTGUG00000010779	0	CDS,intron	Putative Polycomb group protein ASXL3	ASXL3	+	+			+		+
+8	50bp	25589470	25589530	0.00001	0.01262	ENSTGUG00000009870	0	CDS	Cysteine protease ATG4C	ATG4C	+	+	+				
+13	50bp	11683257	11683304	0.00812	0.04562	ENSTGUG00000001419	0	intron	Probable phospholipid-transporting ATPase VB	ATP10B							
+12	50bp	3048585	3048634	0.00772	0.03543	ENSTGUG00000004296	2946	5'flanking	Plasma membrane calcium-transporting ATPase 2	ATP2B2	+	+					+
+19	50bp	1655082	1655132	0.02416	0.03261	ENSTGUG00000003492	0	intron	Autism susceptibility gene 2 protein	AUTS2	+	+				+	
+19	50bp	1942824	1942874	0.00132	0.03255	ENSTGUG00000003492	0	intron	Autism susceptibility gene 2 protein	AUTS2	+	+				+	
+17	50bp	9514195	9514241	0.00019	0.03601	ENSTGUG00000006504	186	5'flanking	Putative UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase LOC402377	B3GALT4							
+24	100bp	4162103	4162268	0.00027	0.00957	ENSTGUG00000000574	0	intron	Homeobox protein BarH-like 2	Barx2	+	+	+		+		+
+8	50bp	12929708	12929779	0.00009	0.02171	ENSTGUG00000006455	3064	5'flanking	B-cell lymphoma/leukemia 10	BCL10	+	+					
+1A	100bp	70334654	70334728	0.00026	0.00289	ENSTGUG00000012503	5242	5'flanking	BH3-interacting domain death agonist	BID							
+7	50bp	8816284	8816337	0.00102	0.03194	ENSTGUG00000004882	0	intron	Myc box-dependent-interacting protein 1	BIN1	+	+					+
+1A	50bp	59289940	59290000	0.00129	0.04804	ENSTGUG00000011632	0	intron	Serine/threonine-protein kinase B-raf	BRAF							
+5	100bp	46031896	46032016	0.00002	0.03704	ENSTGUG00000012623	0	CDS	BTB/POZ domain-containing protein 7	BTBD7	+	+					
+6	50bp	22320469	22320519	0.02452	0.03275	ENSTGUG00000010007	5107	5'flanking	F-box/WD repeat-containing protein 1A	BTRC	+	+	+				
+6	100bp	33263618	33263738	0.00001	0.02872	ENSTGUG00000011471	0	intron	Putative uncharacterized protein C10orf122	C10orf122							
+6	50bp	33260122	33260172	0.00058	0.0408	ENSTGUG00000011471	0	intron	Putative uncharacterized protein C10orf122	C10orf122							
+11	100bp	4158476	4158585	0.00005	0.03655	ENSTGUG00000004792	1	3'flanking	UPF0406 protein C16orf57	C16orf57	+	+					+
+3	50bp	3482572	3482622	0.00001	0.02772	ENSTGUG00000002367	0	CDS,intron	Nuclear nucleic acid-binding protein C1D	C1D	+	+					
+1	50bp	3553483	3553521	0.00017	0.00239	ENSTGUG00000005496	0	intron	C2 domain-containing protein 2	C2CD2	+	+					+
+3	50bp	99812703	99812753	0.00372	0.04257	ENSTGUG00000013066	0	intron	Uncharacterized protein C2orf50	C2orf50							
+4	50bp	3053877	3053930	0.00038	0.03699	ENSTGUG00000001821	0	intron	Calcium/calmodulin-dependent protein kinase type II subunit beta	CAMK2B	+	+					
+1A	100bp	51036437	51036537	0.00023	0.02158	ENSTGUG00000010588	6328	5'flanking	Caspase recruitment domain-containing protein 10	CARD10							
+7	100bp	22098404	22098504	0.00029	0.03724	ENSTGUG00000010299	3771	5'flanking	Caspase-8	CASP8	+	+					
+7	50bp	31021098	31021148	0.00006	0.04501	ENSTGUG00000011578	8241	5'flanking	Coiled-coil domain-containing protein 93	CCDC93	+	+					
+1	50bp	103168798	103168847	0.00018	0.0496	ENSTGUG00000013518	4343	3'flanking	T-lymphocyte activation antigen CD80	CD80							
+2	50bp	37048814	37048864	0.00048	0.04017	ENSTGUG00000001926	0	intron	Cadherin-10	CDH10	+	+					+
+2	50bp	78862070	78862119	0.00004	0.02626	ENSTGUG00000007189	0	intron	Cadherin-18	CDH18	+	+	+				+
+2	100bp	110568796	110568894	0.00052	0.0492	ENSTGUG00000010620	0	intron	Cadherin-2	CDH2	+	+			+		+
+2	50bp	72566361	72566429	0.00032	0.02099	ENSTGUG00000006350	0	intron	Threonylcarbamoyladenosine tRNA methylthiotransferase	CDKAL1	+	+	+				+
+2	50bp	127751775	127751820	0.00452	0.03845	ENSTGUG00000011678	0	intron	Charged multivesicular body protein 4c	CHMP4C							
+2	50bp	29712833	29712883	0.00001	0.0332	ENSTGUG00000001731	0	intron	CLIP-associating protein 2	Clasp2	+	+	+				
+11	100bp	2305530	2305640	0.00013	0.04914	ENSTGUG00000004472	0	intron	C-Maf-inducing protein	CMIP							
+11	50bp	2297308	2297369	0.00622	0.04801	ENSTGUG00000004472	0	intron	C-Maf-inducing protein	CMIP	+	+					+
+17	100bp	8579414	8579525	0.00057	0.00565	ENSTGUG00000005847	0	intron	Collagen alpha-1(V) chain	COL5A1	+	+					+
+17	50bp	8579414	8579479	0.00013	0.02948	ENSTGUG00000005847	0	intron	Collagen alpha-1(V) chain	COL5A1	+	+					+
+17	50bp	8584564	8584613	0.00014	0.03782	ENSTGUG00000005847	0	intron	Collagen alpha-1(V) chain	COL5A1	+	+					+
+3	100bp	35537486	35537586	0.00159	0.03437	ENSTGUG00000008626	113	3'flanking	Cysteine-rich motor neuron 1 protein	CRIM1	+	+	+				+
+1A	50bp	51273280	51273340	0.00029	0.0496	ENSTGUG00000010656	0	intron	Cytokine receptor common subunit beta	CSF2RB							
+6	50bp	18103672	18103722	0.00009	0.02839	ENSTGUG00000008242	5252	3'flanking	Stromal cell-derived factor 1	cxcl12	+	+				+	+
+7	100bp	2899220	2899319	0.00027	0.036	ENSTGUG00000003645	514	5'flanking	C-X-C chemokine receptor type 7	CXCR7	+	+				+	+
+1A	100bp	51215798	51215908	0.0012	0.02069	ENSTGUG00000010616	0	intron	Cytohesin-4	CYTH4	+						
+5	50bp	27460630	27460677	0.0007	0.0232	ENSTGUG00000011473	0	intron	DDB1- and CUL4-associated factor 5	DCAF5							
+4A	100bp	18567862	18568003	0.00001	0.00811	ENSTGUG00000006180	0	intron	Neuronal migration protein doublecortin	DCX	+	+					+
+2	100bp	144555753	144555862	0.00012	0.04841	ENSTGUG00000012415	9463	3'flanking	Derlin-1	DERL1	+	+					
+2	50bp	144555753	144555803	0.00048	0.03447	ENSTGUG00000012415	9522	3'flanking	Derlin-1	DERL1	+	+					
+21	100bp	1283795	1283903	0.00039	0.03926	ENSTGUG00000002492	916	3'flanking	Short-chain dehydrogenase/reductase 3	DHRS3	+	+					
+21	50bp	1287835	1287885	0.00012	0.03257	ENSTGUG00000002492	0	intron	Short-chain dehydrogenase/reductase 3	DHRS3	+	+					
+6	50bp	33319685	33319732	0.00079	0.0441	ENSTGUG00000011493	0	intron	Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX32	DHX32							
+6	50bp	33323138	33323185	0.00259	0.04076	ENSTGUG00000011493	0	intron	Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX32	DHX32							
+5	50bp	46865444	46865514	0.00133	0.03267	ENSTGUG00000012658	251	3'flanking	Endoribonuclease Dicer	DICER1	+	+					
+10	100bp	9119183	9119331	0.00225	0.02715	ENSTGUG00000007026	0	CDS,intron	DmX-like protein 2	DMXL2	+	+					+
+10	50bp	9119233	9119283	0.0001	0.00508	ENSTGUG00000007026	0	CDS	DmX-like protein 2	DMXL2	+	+					+
+14	100bp	15603382	15603482	0.00216	0.0457	ENSTGUG00000009160	0	CDS,intron	Dynein heavy chain 3, axonemal	DNAH3							+
+Z	100bp	38389821	38389907	0.00216	0.03041	ENSTGUG00000001720	0	intron	Dynein intermediate chain 1, axonemal	Dnai1	+						
+13	100bp	15441106	15441199	0.00371	0.04056	ENSTGUG00000001528	0	intron	Dedicator of cytokinesis protein 2	DOCK2							
+1A	50bp	26598304	26598349	0.00128	0.04134	ENSTGUG00000005488	0	intron	Dedicator of cytokinesis protein 4	Dock4	+	+				+	+
+1	50bp	40025629	40025679	0.00153	0.02841	ENSTGUG00000010967	0	intron	Dedicator of cytokinesis protein 9	Dock9	+	+					+
+7	50bp	31505873	31505939	0.00027	0.02765	ENSTGUG00000011635	4113	3'flanking	Inactive dipeptidyl peptidase 10	DPP10							
+7	50bp	31695691	31695740	0.00141	0.04353	ENSTGUG00000011635	0	CDS,intron	Inactive dipeptidyl peptidase 10	DPP10	+	+				+	+
+8	100bp	8991012	8991153	0.00195	0.02726	ENSTGUG00000005495	0	intron	Dihydropyrimidine dehydrogenase [NADP(+)]	DPYD	+				+		
+8	50bp	8939901	8939951	0.00235	0.02827	ENSTGUG00000005495	0	intron	Dihydropyrimidine dehydrogenase [NADP(+)]	DPYD	+				+		
+6	100bp	17770278	17770385	0.00005	0.04915	ENSTGUG00000008206	0	intron	Dorsal root ganglia homeobox protein	Drgx							
+Z	100bp	70732025	70732103	0.00188	0.04985	ENSTGUG00000006826	0	intron	EGF-like repeat and discoidin I-like domain-containing protein 3	EDIL3	+	+				+	+
+1A	100bp	43918792	43918858	0.00226	0.03932	ENSTGUG00000008213	0	intron	Early endosome antigen 1	EEA1	+	+					
+1A	50bp	43918802	43918847	0.00089	0.04642	ENSTGUG00000008213	0	intron	Early endosome antigen 1	EEA1	+	+					
+1	50bp	84661152	84661201	0.00001	0.02745	ENSTGUG00000012982	0	intron	Polycomb protein EED	EED	+	+					
+Z	100bp	19169659	19169752	0.00366	0.0417	ENSTGUG00000000956	0	CDS,intron	Ephrin-A5	EFNA5	+	+					
+5	50bp	2835212	2835262	0.00176	0.03207	ENSTGUG00000004816	0	intron	Elongator complex protein 4	ELP4	+	+	+				
+5	50bp	2898018	2898061	0.00006	0.03393	ENSTGUG00000004816	0	intron	Elongator complex protein 4	ELP4	+	+	+				
+Z	50bp	21005530	21005580	0.00252	0.04143	ENSTGUG00000001008	0	CDS,intron	Band 4.1-like protein 4A	EPB41L4A	+	+					+
+2	100bp	89479102	89479202	0.01553	0.04081	ENSTGUG00000008100	0	intron	Band 4.1-like protein 4B	EPB41L4B	+	+				+	
+1	50bp	100412652	100412702	0.00293	0.04316	ENSTGUG00000013491	365	5'flanking	Ephrin type-A receptor 3	EPHA3	+	+			+		+
+1	50bp	100555106	100555156	0.00119	0.02315	ENSTGUG00000013491	0	intron	Ephrin type-A receptor 3	EPHA3	+	+			+		+
+1	50bp	102053992	102054042	0.00013	0.03298	ENSTGUG00000013496	0	CDS,intron	Ephrin type-A receptor 6	EPHA6							
+3	50bp	76209715	76209766	0.02649	0.04985	ENSTGUG00000012333	0	intron	Ephrin type-A receptor 7	EPHA7	+	+			+		+
+8	100bp	10690464	10690587	0.00043	0.04868	ENSTGUG00000006106	0	intron	Epoxide hydrolase 4	EPHX4							
+11	50bp	7045457	7045507	0.00038	0.01339	ENSTGUG00000006986	0	intron	Epithelial splicing regulatory protein 2	ESRP2							
+2	100bp	142415684	142415784	0.00006	0.04141	ENSTGUG00000012328	0	intron	Exostosin-1	EXT1	+	+					
+4A	50bp	722123	722183	0.00446	0.0326	ENSTGUG00000002174	0	CDS	Coagulation factor IX	F9	+	+					+
+6	100bp	6173834	6173983	0.00001	0.02532	ENSTGUG00000005544	3062	5'flanking	Protein FAM13C	FAM13C	+	+	+				
+6	100bp	6195037	6195133	0.00002	0.04149	ENSTGUG00000005544	0	intron	Protein FAM13C	FAM13C	+	+	+				
+6	50bp	6173844	6173903	0.00024	0.00628	ENSTGUG00000005544	3142	5'flanking	Protein FAM13C	FAM13C	+	+	+				
+1A	100bp	32054633	32054729	0.00007	0.04758	ENSTGUG00000006262	0	intron	Protein FAM19A2	FAM19A2	+	+				+	+
+1A	50bp	16534208	16534247	0.0057	0.0255	ENSTGUG00000003824	0	intron	Protein FAM19A5	Fam19a5	+	+	+				+
+18	100bp	2175510	2175608	0.00422	0.04166	ENSTGUG00000004080	7038	5'flanking	Protein FAM20A	FAM20A							
+19	50bp	6428910	6428956	0.00447	0.046	ENSTGUG00000005393	0	intron	Leucine-rich repeat-containing protein FAM211A	FAM211A							
+1	100bp	80879948	80880047	0.00102	0.03886	ENSTGUG00000012873	0	intron	Protocadherin Fat 3	FAT3	+	+				+	+
+1	50bp	80642200	80642241	0.00003	0.03004	ENSTGUG00000012873	0	intron	Protocadherin Fat 3	FAT3	+	+				+	+
+13_random	50bp	1432942	1432991	0.00359	0.04637	ENSTGUG00000014702	0	intron	Fibroblast growth factor 18	Fgf18	+	+					
+5	50bp	5292540	5292590	0.00001	0.03223	ENSTGUG00000005374	8939	5'flanking	Fibroblast growth factor 19	FGF19	+	+					
+8	50bp	24497678	24497728	0.00002	0.03545	ENSTGUG00000009695	0	intron	FGGY carbohydrate kinase domain-containing protein	Fggy							
+2	100bp	85686299	85686399	0.00001	0.02814	ENSTGUG00000007929	0	CDS	Fidgetin-like protein 1	FIGNL1							
+2	50bp	85686299	85686349	0.00643	0.04642	ENSTGUG00000007929	0	CDS	Fidgetin-like protein 1	FIGNL1							
+1	50bp	118305793	118305843	0.00404	0.0102	ENSTGUG00000013634	0	CDS	Filamin A-interacting protein 1-like	FILIP1L	+	+			+		
+15	50bp	4458905	4458945	0.00018	0.01	ENSTGUG00000007235	0	intron	Forkhead box protein N4	FOXN4							
+12	100bp	17372755	17372860	0.02548	0.03425	ENSTGUG00000009872	6634	5'flanking	Forkhead box protein P1	FOXP1	+	+				+	+
+13	100bp	10751326	10751476	0.00004	0.01759	ENSTGUG00000001305	0	intron	Follistatin-related protein 4	FSTL4	+	+				+	+
+13	50bp	10751386	10751424	0.00467	0.03477	ENSTGUG00000001305	0	intron	Follistatin-related protein 4	FSTL4	+	+				+	+
+15	50bp	620718	620777	0.00004	0.0143	ENSTGUG00000004812	3685	3'flanking	Frizzled-10	FZD10	+	+	+				
+4A	50bp	19240525	19240575	0.00518	0.04977	ENSTGUG00000006374	555	3'flanking	Gamma-aminobutyric acid receptor subunit gamma-4	GABRG4							
+3	100bp	30081808	30081917	0.00595	0.04551	ENSTGUG00000007730	0	intron	Glucagon-like peptide 1 receptor	Glp1r	+	+					
+13	100bp	6380572	6380670	0.00001	0.04374	ENSTGUG00000000749	0	intron	Glycine receptor subunit alpha-1	GLRA1	+	+					
+23	50bp	77995	78045	0.00349	0.0259	ENSTGUG00000000731	0	intron	Glucocorticoid modulatory element-binding protein 1	GMEB1	+	+					
+4A	50bp	7400606	7400656	0.00006	0.04422	ENSTGUG00000002973	0	intron	Glypican-3	GPC3						+	
+5	100bp	28477694	28477794	0.00287	0.02804	ENSTGUG00000011577	0	intron	Gephyrin	GPHN	+	+					+
+6	100bp	20715521	20715604	0.00205	0.02507	ENSTGUG00000009101	0	intron	Probable G-protein coupled receptor 125	GPR125	+	+					
+8	50bp	21993832	21993876	0.00007	0.03448	ENSTGUG00000009054	0	intron	Glutathione peroxidase 7	GPX7	+						
+1A	50bp	47915735	47915781	0.00005	0.04081	ENSTGUG00000009456	0	intron	Glutamate [NMDA] receptor subunit epsilon-2	GRIN2B	+	+	+				+
+4	100bp	62058633	62058753	0.00362	0.04898	ENSTGUG00000010430	0	intron	G protein-coupled receptor kinase 4	GRK4							
+1A	50bp	50524212	50524264	0.00353	0.04155	ENSTGUG00000010342	0	intron	GTP-binding protein 1	Gtpbp1	+	+	+				
+3	100bp	76388940	76389040	0.00008	0.03842	ENSTGUG00000012358	9387	5'flanking	HERV-K_3q27.3 provirus ancestral Pol protein	H0ZQ36							
+13	50bp	9527741	9527781	0.0001	0.03582	ENSTGUG00000001246	5860	5'flanking	Core histone macro-H2A.1	H2AFY	+	+					
+2	100bp	49219156	49219255	0.00096	0.04605	ENSTGUG00000002613	0	intron	Histone deacetylase 9	HDAC9	+	+					+
+2	50bp	49009962	49010008	0.00005	0.02399	ENSTGUG00000002613	0	intron	Histone deacetylase 9	HDAC9	+	+					+
+3	100bp	104846876	104846999	0.00033	0.04016	ENSTGUG00000013163	0	intron	HCLS1-binding protein 3	HS1BP3	+	+					
+4A	50bp	8821013	8821063	0.00008	0.03129	ENSTGUG00000003259	0	intron	X-linked interleukin-1 receptor accessory protein-like 2	Il1rapl2	+	+				+	+
+1	100bp	95813172	95813261	0.00142	0.04644	ENSTGUG00000013414	2745	3'flanking	Immunoglobulin-like domain-containing receptor 1	ildr1							
+19	50bp	9118760	9118790	0.00456	0.02883	ENSTGUG00000007739	0	intron	Integrator complex subunit 2	INTS2	+	+					
+2	50bp	35556226	35556276	0.00776	0.04657	ENSTGUG00000001897	8867	3'flanking	Integrin alpha-9	ITGA9	+	+					+
+2	50bp	53157287	53157342	0.00001	0.03478	ENSTGUG00000002953	0	intron	Juxtaposed with another zinc finger protein 1	JAZF1	+	+		+	+		+
+5	100bp	55584753	55584848	0.00181	0.04834	ENSTGUG00000012967	0	intron	Potassium voltage-gated channel subfamily H member 5	KCNH5	+	+					+
+13_random	50bp	1769480	1769530	0.00048	0.04394	ENSTGUG00000014900	0	intron	Kv channel-interacting protein 1	Kcnip1	+	+				+	
+1	50bp	57261997	57262047	0.00001	0.00743	ENSTGUG00000012281	4954	5'flanking	Uncharacterized protein KIAA0226-like	KIAA0226L							
+1A	50bp	58904215	58904265	0.00006	0.03048	ENSTGUG00000011616	0	intron	Protein LCHN	LCHN							
+13	50bp	15688171	15688221	0.01189	0.04223	ENSTGUG00000001570	0	intron,CDS	Lymphocyte cytosolic protein 2	LCP2	+						
+8	100bp	4794849	4794941	0.00047	0.02585	ENSTGUG00000004361	0	intron	LIM/homeobox protein Lhx9	LHX9	+	+					+
+Z	100bp	29587864	29587964	0.00011	0.03107	ENSTGUG00000001404	0	CDS	Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 2	LINGO2	+	+				+	
+4	50bp	15333091	15333140	0.00041	0.04607	ENSTGUG00000002896	0	intron	Latrophilin-3	LPHN3	+	+	+	+		+	
+7	100bp	34570063	34570168	0.00086	0.04314	ENSTGUG00000011849	0	intron	Low-density lipoprotein receptor-related protein 1B	LRP1B	+	+					
+3	50bp	65534783	65534831	0.00008	0.02621	ENSTGUG00000011898	991	3'flanking	Leucine-rich repeat-containing protein 15	Lrrc15							
+1	50bp	94715850	94715900	0.0003	0.03277	ENSTGUG00000013402	0	intron	Limbic system-associated membrane protein	LSAMP	+	+				+	+
+1	50bp	94762832	94762878	0.00067	0.03717	ENSTGUG00000013402	0	intron	Limbic system-associated membrane protein	LSAMP	+	+				+	+
+2	50bp	155483077	155483148	0.00001	0.01598	ENSTGUG00000012733	7602	5'flanking	Lymphocyte antigen 6E	LY6E	+	+					+
+23	100bp	3128337	3128486	0.00002	0.00806	ENSTGUG00000001087	0	intron	Mannosyl-oligosaccharide 1,2-alpha-mannosidase IC	MAN1C1	+	+					+
+23	50bp	3128384	3128437	0.00011	0.02465	ENSTGUG00000001087	0	intron	Mannosyl-oligosaccharide 1,2-alpha-mannosidase IC	MAN1C1	+	+					+
+4	100bp	31257131	31257261	0.00194	0.03517	ENSTGUG00000005830	0	3'flanking,CDS	E3 ubiquitin-protein ligase MARCH1	MARCH1							
+4A	50bp	7807447	7807497	0.00034	0.02548	ENSTGUG00000002999	0	intron	Muscleblind-like protein 3	MBNL3	+	+					+
+9	100bp	18661502	18661640	0.0025	0.03605	ENSTGUG00000010484	0	intron	Guanine nucleotide exchange factor DBS	Mcf2l	+	+				+	
+1A_random	50bp	607453	607501	0.00967	0.03701	ENSTGUG00000016292	0	intron	Meiosis inhibitor protein 1	MEI1	+	+					
+3	50bp	34007099	34007144	0.00775	0.04139	ENSTGUG00000008460	0	intron	Protein MEMO1	MEMO1	+	+					
+3	50bp	28967528	28967575	0.00105	0.03112	ENSTGUG00000007420	0	5'flanking,CDS	Tyrosine-protein kinase Mer	Mertk	+	+					
+1	100bp	91731617	91731705	0.0032	0.02717	ENSTGUG00000013370	0	intron	Methyltransferase-like protein 16	METTL16							
+4	50bp	7292375	7292425	0.00129	0.0392	ENSTGUG00000002084	0	CDS	Major facilitator superfamily domain-containing protein 8	MFSD8	+						
+13	50bp	7260840	7260890	0.00242	0.03217	ENSTGUG00000001033	0	CDS	Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B	Mgat4b	+	+					+
+12	50bp	9947796	9947860	0.00011	0.04388	ENSTGUG00000012701	0	intron	Monoglyceride lipase	MGLL	+	+			+		+
+15	50bp	3338550	3338599	0.00046	0.01177	ENSTGUG00000006158	2592	5'flanking	MLX-interacting protein	Mlxip	+	+				+	+
+2	100bp	130154446	130154545	0.00027	0.04352	ENSTGUG00000011786	0	intron	Matrix metalloproteinase-16	MMP16	+	+					
+9	50bp	9010801	9010837	0.0005	0.03658	ENSTGUG00000007842	0	intron	2-acylglycerol O-acyltransferase 1	mogat1	+	+	+				+
+1A	100bp	19359377	19359497	0.00141	0.04252	ENSTGUG00000003947	0	CDS	Putative helicase Mov10l1	MOV10L1							
+2	50bp	145213846	145213895	0.00002	0.04999	ENSTGUG00000012488	0	intron	Metastasis suppressor protein 1	MTSS1	+	+					+
+19	100bp	3755551	3755660	0.00155	0.04835	ENSTGUG00000003923	0	intron	Myb-binding protein 1A-like protein	mybbp1a	+	+					
+19	50bp	3755559	3755611	0.00017	0.02073	ENSTGUG00000003923	0	intron	Myb-binding protein 1A-like protein	mybbp1a	+	+					
+7	100bp	4764231	4764313	0.00233	0.03894	ENSTGUG00000004238	0	intron	Myosin light chain kinase, smooth muscle	MYLK	+	+					
+14	100bp	9587812	9587886	0.00149	0.04367	ENSTGUG00000006791	0	intron	Cytosolic Fe-S cluster assembly factor NARFL	NARFL	+	+					
+24	100bp	5740569	5740720	0.0001	0.04354	ENSTGUG00000000657	0	intron	Condensin-2 complex subunit D3	NCAPD3	+						
+2	50bp	1557997	1558053	0.00026	0.01502	ENSTGUG00000000223	0	intron	Neurofilament heavy polypeptide	Nefh	+	+			+	+	+
+9	50bp	6987566	6987609	0.00322	0.03196	ENSTGUG00000007310	0	intron	Ephexin-1	NGEF	+	+	+				+
+3	50bp	45041340	45041412	0.00135	0.0485	ENSTGUG00000010336	0	intron	Nidogen-1	NID1	+	+					+
+2	100bp	119855963	119856070	0.00457	0.03375	ENSTGUG00000011233	0	intron	Sodium/potassium-transporting ATPase subunit beta-1-interacting protein 3	Nkain3	+						
+2	50bp	119856023	119856090	0.00039	0.03815	ENSTGUG00000011233	0	intron	Sodium/potassium-transporting ATPase subunit beta-1-interacting protein 3	Nkain3	+						
+20	50bp	9719545	9719585	0.00243	0.01767	ENSTGUG00000007547	0	intron	Sodium/potassium-transporting ATPase subunit beta-1-interacting protein 4	nkain4	+	+			+		+
+19	100bp	11020847	11020947	0.00932	0.04365	ENSTGUG00000008692	0	CDS	Serine/threonine-protein kinase NLK	NLK	+	+	+				+
+21	50bp	5656562	5656612	0.00004	0.01887	ENSTGUG00000003958	0	intron	Nucleolar complex protein 2 homolog	NOC2L	+	+					
+8_random	50bp	1100032	1100094	0.00248	0.04741	ENSTGUG00000017231	0	intron	Neurogenic locus notch homolog protein 2	NOTCH2	+	+					+
+7	50bp	20720774	20720824	0.00042	0.03793	ENSTGUG00000009797	0	CDS	Neuropilin-2	Nrp2	+	+					
+6	100bp	23106691	23106779	0.00086	0.04159	ENSTGUG00000010251	0	intron	Cytosolic purine 5'-nucleotidase	NT5C2	+	+					+
+18	100bp	4371987	4372061	0.00002	0.04067	ENSTGUG00000005165	0	intron	Netrin-1	NTN1	+						
+2	100bp	68048045	68048121	0.00001	0.04933	ENSTGUG00000005707	0	intron	Orofacial cleft 1 candidate gene 1 protein homolog	OFCC1							
+17	50bp	8680755	8680784	0.00021	0.04236	ENSTGUG00000006000	6622	3'flanking	Noelin	OLFM1	+	+	+		+		+
+1	100bp	59901590	59901690	0.00001	0.04797	ENSTGUG00000012456	0	intron	Olfactomedin-4	OLFM4							
+26_random	100bp	209931	210021	0.00009	0.01927	ENSTGUG00000017463	5379	3'flanking	Opticin	OPTC							
+17	50bp	3357799	3357859	0.00102	0.02749	ENSTGUG00000003260	0	intron	Pappalysin-1	Pappa							
+6	100bp	16148845	16148945	0.00001	0.0322	ENSTGUG00000007620	0	intron	Paired box protein Pax-2	Pax2	+						
+4A	50bp	2755975	2756032	0.00002	0.04346	ENSTGUG00000002396	0	intron	Protocadherin-11 X-linked	PCDH11X							
+2	50bp	29587263	29587314	0.01197	0.02883	ENSTGUG00000001714	2518	5'flanking	Programmed cell death 6-interacting protein	PDCD6IP	+	+	+				
+4	100bp	4658164	4658267	0.00009	0.04656	ENSTGUG00000001899	0	intron	cGMP-specific 3',5'-cyclic phosphodiesterase	PDE5A	+	+				+	+
+1	100bp	76328469	76328565	0.00102	0.02204	ENSTGUG00000012693	0	intron	Platelet-derived growth factor D	PDGFD							
+9	50bp	19903371	19903434	0.00008	0.03243	ENSTGUG00000010602	0	intron	PEX5-related protein	PEX5L	+	+				+	+
+4	100bp	7524147	7524259	0.00003	0.03808	ENSTGUG00000002104	1894	3'flanking	Protein Jade-1	PHF17	+	+					
+15	50bp	8832441	8832485	0.00118	0.03953	ENSTGUG00000008700	0	intron	Phosphatidylinositol 4-kinase alpha	PI4KA	+	+					
+2	50bp	103398302	103398362	0.0023	0.03127	ENSTGUG00000009724	0	intron	Piezo-type mechanosensitive ion channel component 1	Piezo1							
+9	100bp	20131993	20132093	0.00125	0.03098	ENSTGUG00000010736	1047	3'flanking	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform	PIK3CA	+	+					
+7	50bp	19610620	19610669	0.00086	0.02179	ENSTGUG00000009607	0	intron	1-phosphatidylinositol 3-phosphate 5-kinase	PIKFYVE	+	+					
+15	100bp	2654548	2654667	0.00071	0.0327	ENSTGUG00000005473	0	intron	Membrane-associated phosphatidylinositol transfer protein 2	PITPNM2	+	+					+
+1	100bp	4146518	4146594	0.0001	0.01184	ENSTGUG00000005745	0	intron	Homeobox protein PKNOX1	PKNOX1							
+1	50bp	4142525	4142574	0.00818	0.03936	ENSTGUG00000005745	3748	5'flanking	Homeobox protein PKNOX1	PKNOX1							
+Z	50bp	43712208	43712258	0.01726	0.03707	ENSTGUG00000002227	0	CDS	PI-PLC X domain-containing protein 3	PLCXD3	+	+			+	+	
+5	50bp	11280015	11280092	0.00298	0.02237	ENSTGUG00000008557	0	intron	Pleckstrin homology domain-containing family A member 7	PLEKHA7	+	+					+
+3	100bp	29509858	29509985	0.00007	0.03422	ENSTGUG00000007589	0	intron	Centrosomal protein kizuna	PLK1S1							
+3	50bp	29279422	29279469	0.00001	0.04207	ENSTGUG00000007589	0	intron	Centrosomal protein kizuna	PLK1S1							
+3	50bp	29509868	29509889	0.00071	0.01728	ENSTGUG00000007589	0	intron	Centrosomal protein kizuna	PLK1S1							
+4	50bp	7281737	7281787	0.00081	0.04969	ENSTGUG00000002083	0	CDS,intron	Serine/threonine-protein kinase PLK4	PLK4	+						
+1A	100bp	1500686	1500770	0.00026	0.04795	ENSTGUG00000001966	0	intron	Plexin-A4	Plxna4	+	+				+	+
+4	100bp	22232507	22232627	0.00037	0.01257	ENSTGUG00000003795	0	intron	Inorganic pyrophosphatase 2, mitochondrial	PPA2	+	+	+				
+4	50bp	53349872	53349922	0.00157	0.03303	ENSTGUG00000009487	0	CDS	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	PPARGC1A	+	+					+
+5	50bp	56681882	56681938	0.00047	0.02112	ENSTGUG00000012997	0	intron	Protein phosphatase 1A	PPM1A	+	+					+
+5	50bp	52058055	52058115	0.00286	0.03874	ENSTGUG00000012883	4840	5'flanking	Apoptosis-stimulating of p53 protein 1	Ppp1r13b	+	+					+
+6	50bp	30365959	30366008	0.00187	0.04393	ENSTGUG00000011115	7003	5'flanking	Thioredoxin-dependent peroxide reductase, mitochondrial	PRDX3	+	+					
+6	50bp	4072413	4072462	0.00001	0.01257	ENSTGUG00000005123	0	intron	cGMP-dependent protein kinase 1	PRKG1	+	+			+		
+Z	100bp	41310380	41310480	0.0001	0.02874	ENSTGUG00000001979	0	CDS	Prolactin receptor	PRLR							
+1	100bp	100775785	100775885	0.00663	0.04705	ENSTGUG00000013492	0	CDS	Vitamin K-dependent protein S	PROS1	+	+					+
+1	50bp	100775825	100775875	0.00626	0.03179	ENSTGUG00000013492	0	CDS	Vitamin K-dependent protein S	PROS1	+	+					+
+14	50bp	15046671	15046721	0.00051	0.04052	ENSTGUG00000018409	8152	5'flanking	Parvalbumin, thymic CPV3	PRVU							
+3	50bp	107904795	107904845	0.00125	0.01058	ENSTGUG00000013208	0	intron	Patched domain-containing protein 4	Ptchd4							
+12	100bp	13711413	13711532	0.0004	0.04444	ENSTGUG00000009276	0	intron	Receptor-type tyrosine-protein phosphatase gamma	PTPRG	+	+	+				+
+12	100bp	13732893	13732990	0.00001	0.01256	ENSTGUG00000009276	0	intron	Receptor-type tyrosine-protein phosphatase gamma	PTPRG	+	+	+				+
+12	50bp	13662468	13662518	0.00555	0.04109	ENSTGUG00000009276	0	intron	Receptor-type tyrosine-protein phosphatase gamma	PTPRG	+	+	+				+
+20	100bp	3752101	3752201	0.00001	0.04525	ENSTGUG00000004328	0	intron	Receptor-type tyrosine-protein phosphatase T	PTPRT	+	+					+
+20	50bp	3715899	3715950	0.00188	0.04546	ENSTGUG00000004328	0	intron	Receptor-type tyrosine-protein phosphatase T	PTPRT	+	+					+
+20	50bp	3752130	3752166	0.00002	0.03589	ENSTGUG00000004328	0	intron	Receptor-type tyrosine-protein phosphatase T	PTPRT	+	+					+
+9	50bp	4514627	4514673	0.00316	0.02812	ENSTGUG00000006048	0	CDS,intron	Pituitary tumor-transforming gene 1 protein-interacting protein	Pttg1ip	+	+					
+8	100bp	18733886	18733994	0.00579	0.03916	ENSTGUG00000008233	0	intron	DNA repair and recombination protein RAD54-like (Fragment)	RAD54L	+	+					+
+1A	50bp	66014468	66014518	0.0011	0.03514	ENSTGUG00000012234	5951	5'flanking	Ras association domain-containing protein 8	RASSF8	+	+					
+14	50bp	4496456	4496504	0.00019	0.04885	ENSTGUG00000004562	0	intron	RNA binding protein fox-1 homolog 1	RBFOX1					+		
+15	50bp	10058964	10059024	0.0001	0.03276	ENSTGUG00000009017	8346	5'flanking	Probable RNA-binding protein 19	RBM19	+						
+1A	100bp	26235664	26235775	0.00001	0.04119	ENSTGUG00000005414	0	intron	UPF0532 protein C7orf60 homolog	RCJMB04_20b4							
+2	100bp	54451908	54452005	0.00117	0.02999	ENSTGUG00000003139	0	intron	Raftlin	RFTN1	+	+				+	
+8_random	100bp	4589135	4589241	0.00046	0.03035	ENSTGUG00000017417	0	intron	E3 ubiquitin-protein ligase RFWD2	Rfwd2	+	+					
+18	50bp	3656697	3656747	0.00036	0.03522	ENSTGUG00000004834	0	intron	Rhomboid-related protein 3	Rhbdl3							
+3	50bp	108872752	108872802	0.00183	0.03241	ENSTGUG00000013249	0	intron	Runt-related transcription factor 2	Runx2	+	+					
+2	100bp	142695341	142695441	0.01243	0.03928	ENSTGUG00000012339	9755	3'flanking	Sterile alpha motif domain-containing protein 12	Samd12	+	+	+				+
+2	100bp	55282361	55282460	0.00037	0.04855	ENSTGUG00000003198	0	intron	DNA-binding protein SATB1	Satb1	+	+	+				+
+5	50bp	8736507	8736557	0.00003	0.02284	ENSTGUG00000008025	6765	3'flanking	Myotubularin-related protein 13	SBF2	+	+					+
+1A	100bp	64427413	64427522	0.00313	0.04007	ENSTGUG00000012016	0	intron	Signal peptide, CUB and EGF-like domain-containing protein 1	Scube1	+	+				+	+
+19	100bp	6732900	6732996	0.00005	0.0283	ENSTGUG00000005737	2297	5'flanking	Alpha-2-antiplasmin	SERPINF2							
+19	50bp	6732906	6732990	0.00002	0.02048	ENSTGUG00000005737	2303	5'flanking	Alpha-2-antiplasmin	SERPINF2							
+11	50bp	5594830	5594878	0.00061	0.00232	ENSTGUG00000006082	0	intron	Splicing factor 3B subunit 3	SF3B3	+	+					+
+1	100bp	96769619	96769716	0.00036	0.03964	ENSTGUG00000013435	724	5'flanking	Vesicle transport protein SFT2B	SFT2D2							
+4_random	100bp	4147156	4147248	0.0001	0.04618	ENSTGUG00000015459	0	intron	Sideroflexin-5	SFXN5	+	+					
+4_random	50bp	4147166	4147216	0.00001	0.02303	ENSTGUG00000015459	0	intron	Sideroflexin-5	SFXN5	+	+					
+1	100bp	14920518	14920622	0.00379	0.02442	ENSTGUG00000007550	0	intron	SH3 domain-containing kinase-binding protein 1	SH3KBP1							
+6	100bp	23554149	23554265	0.00017	0.03155	ENSTGUG00000010349	7633	3'flanking	SH3 and PX domain-containing protein 2A	SH3PXD2A	+	+	+				+
+4	100bp	32999920	33000012	0.00112	0.0367	ENSTGUG00000006100	7464	5'flanking	E3 ubiquitin-protein ligase SH3RF1	Sh3rf1	+	+		+			
+5	50bp	5682368	5682420	0.00372	0.0189	ENSTGUG00000005571	0	intron	SH3 and multiple ankyrin repeat domains protein 2	SHANK2	+	+				+	+
+3	100bp	13358360	13358469	0.00066	0.04741	ENSTGUG00000003167	1728	5'flanking	Zinc transporter 1	SLC30A1	+	+					
+18	100bp	783698	783789	0.00017	0.04471	ENSTGUG00000002885	7255	3'flanking	Zinc transporter ZIP11	SLC39A11	+	+					+
+18	100bp	790704	790798	0.00001	0.03629	ENSTGUG00000002885	246	3'flanking	Zinc transporter ZIP11	SLC39A11	+	+					+
+12	100bp	10951762	10951860	0.00034	0.04735	ENSTGUG00000008199	0	intron	Solute carrier family 41 member 1	Slc41a1	+	+					+
+2	50bp	152966243	152966293	0.00916	0.04413	ENSTGUG00000012694	0	intron	Solute carrier family 45 member 4	SLC45A4	+	+					+
+4A	50bp	14465386	14465466	0.02451	0.03288	ENSTGUG00000004763	1717	3'flanking	SLIT and NTRK-like protein 2	SLITRK2	+	+					
+1	100bp	52979779	52979878	0.00105	0.04219	ENSTGUG00000011897	5427	5'flanking	Mothers against decapentaplegic homolog 9	SMAD9	+	+					
+4A	50bp	11620868	11620916	0.00004	0.03816	ENSTGUG00000003899	0	intron	Probable global transcription activator SNF2L1	Smarca1	+	+					+
+1A	100bp	60386665	60386777	0.00001	0.04827	ENSTGUG00000011749	0	intron	Transcription factor SOX-5	SOX5	+	+	+				+
+1A	100bp	60521532	60521621	0.00049	0.04934	ENSTGUG00000011749	0	intron	Transcription factor SOX-5	SOX5	+	+	+				+
+1A	50bp	60433818	60433868	0.00023	0.01978	ENSTGUG00000011749	0	intron	Transcription factor SOX-5	SOX5	+	+	+				+
+4	50bp	5734746	5734794	0.00007	0.04402	ENSTGUG00000002038	4084	3'flanking	Protein sprouty homolog 1	SPRY1	+	+					
+Z	50bp	71892577	71892623	0.00645	0.03955	ENSTGUG00000006949	0	intron	Single-stranded DNA-binding protein 2	SSBP2	+	+	+				+
+1A	50bp	61133547	61133599	0.0004	0.04528	ENSTGUG00000011761	0	intron	Alpha-N-acetylneuraminide alpha-2,8-sialyltransferase	ST8SIA1	+	+	+				+
+Z	50bp	32407070	32407120	0.00078	0.04318	ENSTGUG00000001564	365	5'flanking	Alpha-2,8-sialyltransferase 8E	ST8SIA5	+	+					+
+2	100bp	23907528	23907631	0.00007	0.04656	ENSTGUG00000001425	1436	3'flanking	Metalloreductase STEAP1	STEAP1							
+17	50bp	9659176	9659226	0.00001	0.01412	ENSTGUG00000006736	0	CDS	Erythrocyte band 7 integral membrane protein	STOM							
+12	100bp	15951849	15951958	0.00181	0.02553	ENSTGUG00000009643	0	intron	Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial (Fragment)	SUCLG2	+	+					
+2	100bp	29889155	29889278	0.00045	0.03824	ENSTGUG00000001761	4991	5'flanking	Sushi domain-containing protein 5	SUSD5							
+1A	100bp	52952051	52952138	0.00001	0.0053	ENSTGUG00000010887	0	intron	Synapsin-3	SYN3	+	+					+
+1A	50bp	38794457	38794479	0.00703	0.04719	ENSTGUG00000007572	0	intron	Synaptotagmin-1	SYT1	+	+					+
+3	50bp	13946493	13946551	0.00025	0.02486	ENSTGUG00000003225	0	intron	Synaptotagmin-14	SYT14	+	+					+
+4A	100bp	11804228	11804328	0.00027	0.04188	ENSTGUG00000004032	4385	5'flanking	Synaptotagmin-like protein 2	Sytl2							
+4A	50bp	11804278	11804328	0.00347	0.03432	ENSTGUG00000004032	4435	5'flanking	Synaptotagmin-like protein 2	Sytl2							
+11	100bp	19218027	19218149	0.00002	0.02149	ENSTGUG00000009520	0	intron	Transcription initiation factor TFIID subunit 4	TAF4	+	+	+				+
+11	50bp	19218074	19218122	0.00003	0.02546	ENSTGUG00000009520	0	intron	Transcription initiation factor TFIID subunit 4	TAF4	+	+	+				+
+9	100bp	20766411	20766521	0.00002	0.02988	ENSTGUG00000010773	1693	3'flanking	F-box-like/WD repeat-containing protein TBL1XR1	Tbl1xr1	+	+	+				+
+9	50bp	20766411	20766471	0.00001	0.02854	ENSTGUG00000010773	1693	3'flanking	F-box-like/WD repeat-containing protein TBL1XR1	Tbl1xr1	+	+	+				+
+5_random	50bp	1228784	1228834	0.02179	0.03245	ENSTGUG00000015995	0	intron	Transcriptional enhancer factor TEF-1	TEAD1	+	+					+
+8	50bp	10103139	10103190	0.00098	0.04545	ENSTGUG00000005827	0	intron	Trans-2,3-enoyl-CoA reductase	TECR	+	+					
+15	50bp	1504258	1504308	0.00244	0.04955	ENSTGUG00000004905	0	intron	Transmembrane protein 132B	TMEM132B							
+15	50bp	1077056	1077115	0.0004	0.0349	ENSTGUG00000004861	0	intron	Transmembrane protein 132C	TMEM132C	+	+					
+15	50bp	880836	880897	0.00003	0.03745	ENSTGUG00000004813	0	intron	Transmembrane protein 132D	TMEM132D							+
+10	100bp	8874699	8874812	0.0008	0.00305	ENSTGUG00000006888	0	intron	Tropomodulin-2	TMOD2	+	+	+				+
+1	50bp	3902382	3902432	0.0083	0.04484	ENSTGUG00000005582	0	intron	Transmembrane protease serine 3	Tmprss3							
+1	50bp	91725249	91725299	0.00004	0.0461	ENSTGUG00000013369	1124	3'flanking	Tumor necrosis factor receptor superfamily member 1A	TNFRSF1A	+	+				+	+
+4	50bp	26314533	26314617	0.00294	0.02963	ENSTGUG00000004835	0	intron	Tankyrase-1	TNKS	+	+			+		
+1A	50bp	49727263	49727322	0.00267	0.03419	ENSTGUG00000010138	0	intron	Trinucleotide repeat-containing gene 6B protein	Tnrc6b	+	+	+				+
+18	100bp	4738644	4738761	0.00002	0.019	ENSTGUG00000005672	6480	3'flanking	DNA topoisomerase 1	top1	+	+	+				+
+18	50bp	4738654	4738704	0.00008	0.0314	ENSTGUG00000005672	6537	3'flanking	DNA topoisomerase 1	top1	+	+	+				+
+3	50bp	42094999	42095049	0.0248	0.04895	ENSTGUG00000009874	0	CDS	Tripartite motif-containing protein 67	TRIM67	+	+					
+4A	100bp	18388229	18388326	0.00032	0.03085	ENSTGUG00000006117	9243	5'flanking	Short transient receptor potential channel 5	Trpc5	+	+					
+2	100bp	141306962	141307062	0.00289	0.04197	ENSTGUG00000012298	0	intron	Zinc finger transcription factor Trps1	TRPS1	+	+				+	
+11	50bp	15479003	15479059	0.00014	0.02337	ENSTGUG00000009016	8942	3'flanking	Teashirt homolog 3	TSHZ3	+	+		+			
+2	50bp	154125410	154125462	0.00014	0.0299	ENSTGUG00000007991	0	intron	t-SNARE domain-containing protein 1	TSNARE1	+	+	+				+
+10	50bp	20117331	20117372	0.00384	0.04897	ENSTGUG00000009720	5173	3'flanking	Uveal autoantigen with coiled-coil domains and ankyrin repeats	UACA	+	+	+				+
+7	50bp	3395417	3395477	0.00001	0.03541	ENSTGUG00000003839	0	intron	NEDD8-conjugating enzyme UBE2F	UBE2F	+	+					+
+5	50bp	46196583	46196633	0.00014	0.03309	ENSTGUG00000012625	0	CDS,intron	Protein unc-79 homolog	UNC79							
+1	50bp	48880551	48880601	0.00043	0.03419	ENSTGUG00000011564	6430	5'flanking	Ubiquitin carboxyl-terminal hydrolase 12	USP12	+	+					+
+12	100bp	6934402	6934487	0.00207	0.02556	ENSTGUG00000006633	0	intron	Ubiquitin carboxyl-terminal hydrolase 4	Usp4	+	+	+				
+24	50bp	7157151	7157211	0.00012	0.02724	ENSTGUG00000000734	5935	3'flanking	Ubiquitin carboxyl-terminal hydrolase 42	USP42	+	+					
+17	50bp	7983486	7983530	0.00003	0.03102	ENSTGUG00000005682	0	intron	Guanine nucleotide exchange factor VAV2	Vav2	+	+					
+17	50bp	8029529	8029571	0.00002	0.02508	ENSTGUG00000005682	0	intron	Guanine nucleotide exchange factor VAV2	Vav2	+	+					
+2	50bp	34882224	34882274	0.00001	0.02849	ENSTGUG00000001860	0	intron	Vacuolar protein sorting-associated protein 41 homolog	VPS41	+	+					+
+7	50bp	583409	583459	0.00444	0.04758	ENSTGUG00000002893	0	intron	von Willebrand factor C domain-containing protein 2-like	Vwc2l							
+19	100bp	3372967	3373072	0.00001	0.01719	ENSTGUG00000003787	0	intron	Williams-Beuren syndrome chromosomal region 16 protein homolog	Wbscr16	+	+					
+3	100bp	18311610	18311710	0.00001	0.02935	ENSTGUG00000004059	0	CDS,intron	WD repeat-containing protein 26	WDR26	+	+					+
+Z	50bp	56761525	56761575	0.00292	0.0396	ENSTGUG00000003972	0	intron	WD repeat-containing protein 41	WDR41	+	+					
+10	50bp	8063226	8063274	0.00408	0.02755	ENSTGUG00000006614	0	intron	WD repeat-containing protein 72	WDR72							
+1A	100bp	61882481	61882580	0.00003	0.03696	ENSTGUG00000011806	0	intron	Protein Wnt-7b	WNT7B	+	+					+
+13	50bp	14676653	14676732	0.00317	0.02473	ENSTGUG00000001488	0	intron	Protein KIBRA	WWC1	+	+				+	+
+1	100bp	19865322	19865426	0.0007	0.02852	ENSTGUG00000008439	0	intron	Protein WWC3	WWC3	+	+					
+8_random	100bp	3347587	3347703	0.00011	0.01272	ENSTGUG00000017364	0	intron	Xenotropic and polytropic retrovirus receptor 1	XPR1	+	+			+		+
+7	50bp	9040444	9040518	0.01097	0.04782	ENSTGUG00000005014	0	intron	X-ray repair cross-complementing protein 5	Xrcc5	+	+					
+3	100bp	29244758	29244852	0.00011	0.03918	ENSTGUG00000007535	0	intron	5'-3' exoribonuclease 2	XRN2	+	+					
+3	100bp	29249027	29249208	0.00022	0.02273	ENSTGUG00000007535	0	CDS,intron	5'-3' exoribonuclease 2	XRN2	+	+					
+3	50bp	29249077	29249158	0.00003	0.04949	ENSTGUG00000007535	0	CDS,intron	5'-3' exoribonuclease 2	XRN2	+	+					
+1A	50bp	28794964	28795052	0.00144	0.03725	ENSTGUG00000005817	0	intron	YY1-associated factor 2	YAF2	+	+					
+9	100bp	2394719	2394812	0.00632	0.04527	ENSTGUG00000005529	435	3'flanking	YEATS domain-containing protein 2	YEATS2	+	+	+				
+24	100bp	7113996	7114115	0.00008	0.04524	ENSTGUG00000000733	0	intron	Zinc finger and BTB domain-containing protein 44	ZBTB44	+	+			+		
+24	50bp	7114026	7114087	0.00074	0.0484	ENSTGUG00000000733	0	intron	Zinc finger and BTB domain-containing protein 44	ZBTB44	+	+			+		
+13	50bp	1103744	1103806	0.00248	0.04962	ENSTGUG00000018241	768	3'flanking	Zinc finger CCHC domain-containing protein 10	Zcchc10	+	+					
+2	50bp	96922913	96922963	0.00002	0.04751	ENSTGUG00000009118	0	intron	Zinc finger protein 407	ZNF407	+	+	+				
+6	50bp	20079018	20079070	0.0058	0.0499	ENSTGUG00000009058	977	3'flanking	Zinc finger protein 518A	ZNF518A	+	+					
+8	50bp	12760046	12760096	0.00001	0.04839	ENSTGUG00000006419	0	intron	Box C/D snoRNA protein 1	ZNHIT6	+	+					
+																	
+8	50bp	12267397	12267447	0.0048	0.04971	ENSTGUG00000006315	0	intron	unknown function	NA							
+Z	100bp	71481611	71481716	0.00002	0.03605	ENSTGUG00000006929	0	intron	unknown function	NA							
+12	50bp	11330782	11330825	0.00189	0.04875	ENSTGUG00000008334	630	3'flanking	unknown function	NA							
+5	50bp	50069661	50069720	0.00026	0.02365	ENSTGUG00000012775	0	intron	unknown function	NA							
+4_random	100bp	3942487	3942567	0.00031	0.03907	ENSTGUG00000015420	7954	3'flanking	unknown function	NA							
+8_random	50bp	2887844	2887899	0.00112	0.02117	ENSTGUG00000017338	0	intron	unknown function	NA							
+20	100bp	12015983	12016092	0.00002	0.04945	ENSTGUG00000018394	8026	3'flanking	unknown function	NA							
+20	50bp	12015983	12016060	0.00015	0.00423	ENSTGUG00000018394	8058	3'flanking	unknown function	NA							
+
